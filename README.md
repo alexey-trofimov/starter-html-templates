@@ -2,5 +2,3 @@
 
 - Simple template;
 - Template with icons from Font Awesome.
-
-*Private repository*
